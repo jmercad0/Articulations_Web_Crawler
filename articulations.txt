@@ -1,0 +1,242 @@
+CS 046A: CS 111 Fundamentals of Programming I AND CS 112 Fundamentals of Programming 2 at Allan Hancock Community College
+CS 046A: CISP 401 Object Oriented Programming with Java OR CISC 310 Introduction to Computer Information Science AND CISP 400 Object Oriented Programming with C++ at American River College
+CS 046A: CIS 111 Programming and Algorithms AND CIS 113 Data Structures at Antelope Valley College
+CS 046A: CIS 25 Object Oriented Programming Using C++ OR CIS 36A Java Programming Language I at Berkeley City College
+CS 046A: CSCI 4 Introduction to Programming Concepts and Methodologies AND CSCI 20 Programs and Algorithms I at Butte College
+CS 046A: CS 19 C++ Programming OR CS 20J Java Programming at Cabrillo College
+CS 046A: CIS 284 Introduction to Object Oriented Programming - Java AND CIS 286 Introduction to Data Structures - Java(completion of CIS 284 and 286 meet CS 46A and 46B) at Canada College
+CS 046A: CIS 183 Java Programming at Cerritos College
+CS 046A: CSCI 15 Object-Oriented Programming Methods OR CSCI 19A Object-Oriented Programming Methods in JAVA at Chabot College
+CS 046A: CS 110B Programming Fundamentals: C++ OR CS 111B Programming Fundamentals: Java at City College of San Francisco
+CS 046A: CSCI 40 Programming Concepts and Methodology I at Clovis Community College
+CS 046A: CIS 25 Object-Oriented Programming Using C++ at College of Alameda
+CS 046A: CIS 255 (CS1) Programming Methods: JAVA OR CIS 278 (CS1) Programming Methods I: C++ at College of San Mateo
+CS 046A: CIS 12 Programming Fundamentals at College of the Redwoods
+CS 046A: CCTPG 22 Programming Concepts and Methodology I at Columbia College
+CS 046A: COMP 251 Fundamentals of Computer Science C++ at Contra Costa College
+CS 046A: CISP 400 Object Oriented Programming with C++ OR CISP 401 Object Oriented Programming with JAVA OR CISP 360 Introduction to Structured Programming at Cosumnes River College
+CS 046A: CSCI 110 Introduction to Computer Science I (C++) at Crafton Hills College
+CS 046A: COMP 150 Object Oriented Programming at CSU, Channel Islands
+CS 046A: CS 140 Introduction to Computer Science AND CS 141 Introduction to Programming and Problem Solving at CSU, Pomona
+CS 046A: CSE 201 Computer Science I at CSU, San Bernardino
+CS 046A: CIS 231 Fundamentals of Computer Science 1 at Cuesta College
+CS 046A: CS 182 Introduction to JAVA Programming at Cuyamaca College
+CS 046A: CIS 35A Java Programming OR CIS 22A Beginning Programming Methodologies in C++ AND CIS 22B Intermediate Programming Methodologies in C++ OR CIS 22A Beginning Programming Methodologies in C++ AND CIS 22BH Intermediate Programming Methodologies in C++ - HONORS OR CIS 36A Introduction to Computer Programming Using Java AND CIS 36B Intermediate Problem Solving in JavaCIS 35A or (CIS 22A & 22B) or (CIS 22A & 22BH) or (CIS 36A & 36B) at DeAnza College
+CS 046A: ComSc 255 Programming with Java OR ComSc 110 Introduction to Programming AND ComSc 165 Advanced Programming with C and C++ at Diablo Valley College
+CS 046A: ComSc 75 Computer Science I: Introduction to Program Structures OR CIT 44 Java Programming at Evergreen Valley College
+CS 046A: CISP 400 Object Oriented Programming with C++ OR CISP 401 Object Oriented Programming with JAVA at Folsom Lake College
+CS 046A: CS 1B Intermediate Software Design in JAVA at Foothill College
+CS 046A: CIT 63 Beginning Java Programming at Fresno City College
+CS 046A: CSCI 123F Introduction to Programming Concepts in C++ at Fullerton College
+CS 046A: CSIS 45 C++ Programming I at Gavilan College
+CS 046A: CSIS 293 Introduction to Java Programming OR CSIS 296 Introduction to C++ Programming at Grossmont College
+CS 046A: CSS 2A Object Oriented Programming at Hartnell College
+CS 046A: CS 111 Computer Science Foundations 1 at Humboldt State University
+CS 046A: CS 38 Java Programming at Irvine Valley College
+CS 046A: CIS 120A Computer Programming I AND CIS 120B Computer Programming II AND CIS 120C Computer Programming III at Lake Tahoe Community College
+CS 046A: CIS 25 Object Oriented Programming Using C++ OR CIS 36A Java Programming Language I at Laney College
+CS 046A: CS 2 Computing Fundamentals II at Las Positas College
+CS 046A: CS 21A Java: Computer Science I at Long Beach City College
+CS 046A: COSCI 407 Programming Logic AND COSCI 440 Programming in C++ AND COSCI 452 Programming in Java at Los Angeles Mission College
+CS 046A: CPSC 6 Programming Concepts and Methodology I at Merced College
+CS 046A: CIS 43 Software Development with Java Programming OR EGR 30 Introduction to Computing for Engineers at Mission College
+CS 046A: CSIS 10A Programming Methods I: JAVA at Monterey Peninsula College
+CS 046A: CS M10A Introduction to Computer Programming Using Structured C++ OR CS M10J Introduction to Computer Programming Using Java at Moorpark College
+CS 046A: CSCI 145 Java Language and Object Oriented Programming at Mount San Antonio College
+CS 046A: CS 116 Object-Oriented Programming Using C++ at Ohlone College
+CS 046A: CS 3B Fundamentals of Computer Science II (Java) at Pasadena City College
+CS 046A: CSCI 40 Programming Concepts and Methodology I at Reedley College
+CS 046A: CISP 401 Object Oriented Programming with JavaCISP 401 meets CS/SE 46A or CS 49J, not both at Sacramento City College
+CS 046A: CS 1B Introduction to Computer Science II at Saddleback College
+CS 046A: CS 190 Programming in C++ at San Bernardino Valley College
+CS 046A: CS 107 Introduction to Computer Programming AND CS 108 Intermediate Computer Programming at San Diego State University
+CS 046A: CSC 210 Introduction to Computer Programming at San Francisco State University
+CS 046A: CSP 26A JAVA Programming OR CSP 31A C++ Programming I at San Joaquin Delta College
+CS 046A: CIS 84 Java Programming at San Jose City College
+CS 046A: CS 140 Object-Oriented Programming Using C++ at Santa Barbara City College
+CS 046A: CS 10 Introduction to Programming Concepts and Methodologies at Santa Rosa Junior College
+CS 046A: COMP 250 Programming Methods I: C++ OR COMP 284 Programming Methods I: JAVA at Skyline College
+CS 046A: CS 115 Programming I AND CS 215 Programming II at Sonoma State University
+CS 046A: CIST 4A1 Computer Programming I (JAVA) at West Valley College
+CS 046A: COMSC 9A C++ Programming at Yuba College
+CS 046B: CS 111 Fundamentals of Programming I AND CS 112 Fundamentals of Programming 2 at Allan Hancock Community College
+CS 046B: CISP 430 Data Structures at American River College
+CS 046B: CIS 111 Programming and Algorithms AND CIS 113 Data Structures at Antelope Valley College
+CS 046B: CIS 27 Data Structure and Algorithms at Berkeley City College
+CS 046B: CSCI 20 Programs and Algorithms I AND CSCI 21 Programs and Algorithms II at Butte College
+CS 046B: CS 21 Introduction to Data Structures and Algorithms at Cabrillo College
+CS 046B: CIS 284 Introduction to Object Oriented Programming - Java AND CIS 286 Introduction to Data Structures - Java(completion of CIS 284 and 286 meet CS 46A and 46B) at Canada College
+CS 046B: CSCI 20 Introduction to Data Structures at Chabot College
+CS 046B: CS 110C Data Structures and Algorithms: C++ OR CS 111C Data Structures and Algorithms: Java at City College of San Francisco
+CS 046B: CSCI 41 Programming Concepts and Methodology II at Clovis Community College
+CS 046B: CIS 256 (CS2) Data Structures: Java OR CIS 279 (CS2) Data Structures: C++ at College of San Mateo
+CS 046B: CCTPG 24 Programming Concepts and Methodology II at Columbia College
+CS 046B: COMP 252 Data Structures and Algorithms at Contra Costa College
+CS 046B: CISP 430 Data Structures at Cosumnes River College
+CS 046B: CSCI 230 Data Structures and Algorithms (Java) at Crafton Hills College
+CS 046B: COMP 151 Data Structures and Progam Design at CSU, Channel Islands
+CS 046B: CSE 202 Computer Science II at CSU, San Bernardino
+CS 046B: CIS 232 Fundamentals of Computer Science II at Cuesta College
+CS 046B: CIS 22C Data Abstraction and Structures OR CIS 22CH Data Abstraction and Structures - HONORS at DeAnza College
+CS 046B: ComSc 210 Program Design & Data Structures at Diablo Valley College
+CS 046B: ComSc 76 Computer Science II: Introduction to Data Structures at Evergreen Valley College
+CS 046B: ICT 201 Programming Concepts and Methodology I AND ICT 202 Programming Concepts and Methodology II at Feather River College
+CS 046B: CISP 430 Data Structures at Folsom Lake College
+CS 046B: CS 1C Advanced Data Structures & Algorithms in JAVA at Foothill College
+CS 046B: CSCI 41 Programming Concepts & Methodology II at Fresno City College
+CS 046B: CSCI 133F Data Structures in C++ at Fullerton College
+CS 046B: CSIS 46 C++ Programming II at Gavilan College
+CS 046B: CS G189 Data Structures with C++ AND CS G153 Java Programming, Introduction at Golden West College
+CS 046B: CSIS 294 Intermediate Java Programming and Fundamental Data Structures at Grossmont College
+CS 046B: CSS 2B Data Structures and Algorithims at Hartnell College
+CS 046B: CS 221 Introduction to Object Oriented Programming in JAVA AND CS 231 Introduction to Data Structures at Imperial Valley College
+CS 046B: CS 41 Data Structures at Irvine Valley College
+CS 046B: CIS 120A Computer Programming I AND CIS 120B Computer Programming II AND CIS 120C Computer Programming III at Lake Tahoe Community College
+CS 046B: CIS 27 Data Structures and Algorithms at Laney College
+CS 046B: CS 20 Advanced Programming Methods with Data Structures using C++ at Las Positas College
+CS 046B: CS 22 Data Structures and Algorithms at Long Beach City College
+CS 046B: COSCI 440 Programming in C++ AND COSCI 452 Programming in Java AND COSCI 436 Introduction to Data Structures at Los Angeles Mission College
+CS 046B: CSC 221 Programming and Algorithms I AND CSC 222 Programming and Algorithms II at Mendocino College
+CS 046B: CPSC 39 Programming Concepts and Methodology II at Merced College
+CS 046B: CIS 6 Introduction To Computer Programming AND CIS 33 Software Architectures and Algorithms OR CIS 7 Control Structures and Objects AND CIS 33 Software Architectures and Algorithms at Merritt College
+CS 046B: CIS 44 Introduction to Data Structures Using Java at Mission College
+CS 046B: CSIS 10B Programming Methods II: JAVA at Monterey Peninsula College
+CS 046B: CS M20 Object-Oriented Data Structiures and Algorithm Design at Moorpark College
+CS 046B: CSC 5 Programming Concepts and Methodologies I: C++ AND CSC 17A Programming Concepts and Methodology II: C++ OR CIS 5 Programming Concepts and Methodologies I: C++ AND CIS 17A Programming Concepts and Methodology II: C++ at Norco College
+CS 046B: CS 124 Programming with Data Structures at Ohlone College
+CS 046B: CSCI 112 Programming Fundamentals I AND CSCI 210 Data Structures at Palomar College
+CS 046B: CS 8 Fundamentals of Computer Science III-Data Structures at Pasadena City College
+CS 046B: CSCI 41 Programming Concepts and Methodology II at Reedley College
+CS 046B: CISP 430 Data Structures at Sacramento City College
+CS 046B: CS 265 Data Structures and Algorithms with C++ at San Bernardino Valley College
+CS 046B: CSC 220 Data Structures at San Francisco State University
+CS 046B: CSP 26B Data Structures with Java OR CSP 31B C++ Programming II at San Joaquin Delta College
+CS 046B: CIS 55 Data Structures at San Jose City College
+CS 046B: CS 106 Theory and Practice II at Santa Barbara City College
+CS 046B: CS 11 Data Structures and Algorithms at Santa Rosa Junior College
+CS 046B: CS V15 Data Structures and Algorithms at Ventura College
+CS 046B: CIST 4B1 Computer Programming II (JAVA) at West Valley College
+CS 046B: COMSC 9B Data Structures at Yuba College
+CS 047: CS 131 Computer Organization at Allan Hancock Community College
+CS 047: CISP 310 Assembly Language Programming for Microcomputers at American River College
+CS 047: CIS 123 Assembly Language and Computer Architecture at Antelope Valley College
+CS 047: COMP B13 Computer Architecture and Organization at Bakersfield College
+CS 047: CIS 20 Microcomputer Assembly Language at Berkeley City College
+CS 047: CSCI 10 Computer Architecture and Organization at Butte College
+CS 047: CS 24 Elementary Computer Organization at Cabrillo College
+CS 047: CIS 242 Computer Architecture and Assembly Language at Canada College
+CS 047: CIS 231 Computer Organization and Assembly Language Programming at Cerritos College
+CS 047: CSCI C257 Computer Architecture and Organization at Cerro Coso College
+CS 047: CSCI 21 Computer Organization and Assembly Language Programming at Chabot College
+CS 047: CS 3 Computer Architecture and Organization at Chaffey College
+CS 047: CS 242 Computer Architecture and Organization at Citrus Community College
+CS 047: CS 270 Computer Architecture with Assembly Language at City College of San Francisco
+CS 047: CSCI 45 Computer Organization and Assembly Language Programming at Clovis Community College
+CS 047: COMP 160 Computer Organization: An Assembly Language Perspective at College of Marin
+CS 047: CIS 264 Computer Architecture and Assembly Language at College of San Mateo
+CS 047: CMPSCI 122 Computer Architecture and Assembly Language at College of the Canyons
+CS 047: CS 7A Computer Science I AND CS 7B Computer Science II OR CS 8 Computer Architecture and Organization at College of the Desert
+CS 047: CSCI 2006 Assembly Language Programming at College of the Siskiyous
+CS 047: COMP 280 Computer Structure and Organization at Contra Costa College
+CS 047: CS 87 Assembler Language Programming at Copper Mountain College
+CS 047: CISP 310 Assembly Language Programming on Microcomputers at Cosumnes River College
+CS 047: CSCI 240 Computer Organization and Assembly Language Programmimg at Crafton Hills College
+CS 047: CSCI 221 Assembly Language Programming at CSU, Chico
+CS 047: CIS 240 Microcomputer Architecture and Programming at Cuesta College
+CS 047: CIS 21JA Introduction to x86 Processor Assembly Language and Computer Architecture at DeAnza College
+CS 047: COMSC 260 Assembly Language Programming/Computer Organization at Diablo Valley College
+CS 047: COMPSCI 16 Assembly Language Programming for the IBM PC and Compatibles at El Camino College
+CS 047: COMSC 77 Computer Organization and Systems at Evergreen Valley College
+CS 047: CISP 310 Assembly Language Programming for Microcomputers at Folsom Lake College
+CS 047: CS 10 Computer Architecture & Organization OR ENGR 12 Computer Architecture & Organization at Foothill College
+CS 047: CSCI 241F Computer Organization and Assembly Language Programming at Fullerton College
+CS 047: CSIS 12 Assemble Language Programming OR CSIS 12 Assemble Language Programming AND CSIS 12L Assemble Language Programming Lab OR CSIS 28 Computer Architecture and Organization at Gavilan College
+CS 047: CSIS 165 Computer Architecture and Assembly Language at Glendale Community College
+CS 047: CS G242 Computer Architecture and Organization at Golden West College
+CS 047: CSS 3 Computer Architecture and Assembly Language Programming at Hartnell College
+CS 047: CS 280 Assembly Language and Machine Organization OR CS 281 Assembly Language and Machine at Imperial Valley College
+CS 047: CS 21 Computer Organization and Assembly Language Programming at Las Positas College
+CS 047: CS 51 Introduction to Computer Architecture at Long Beach City College
+CS 047: COSCI 117 Beginning Microcomputer ASSEMBLY Language Programming at Los Angeles City College
+CS 047: COSCI 317 Beginning Micro Assembly at Los Angeles Harbor College
+CS 047: COSCI 416 Beginning Computer Architecture and Organization at Los Angeles Mission College
+CS 047: COMSC 142 Computer Architecture and Organization at Los Medanos College
+CS 047: CSC 210 Computer Organization and Architecture at Mendocino College
+CS 047: CPSC 42 Computer Architecture and Organization at Merced College
+CS 047: CIS 20 Microcomputer Assembly Language at Merritt College
+CS 047: CS 220 Computer Architecture and Assembly Language at Miracosta College
+CS 047: CIS 39 Introduction to Computer Systems at Mission College
+CS 047: CSCI 273 Assembly Language Programming at Modesto Junior College
+CS 047: CSIS 11 Computer Architectures and Organization at Monterey Peninsula College
+CS 047: CS M30 Introduction to Computer Systems OR CS M145 Computer Architecture and Organization at Moorpark College
+CS 047: CIS 11 Computer Architecture and Organization: Assembly at Moreno Valley College
+CS 047: CSIS 118B Computer Organization & Assembly Language at Mount San Jacinto College
+CS 047: CIS 11 Computer Architecture and Organization: Assembly OR CSC 11 Computer Architecture and Organization: Assembly at Norco College
+CS 047: CS 118 Introduction to Assembly Language Programming at Ohlone College
+CS 047: CS A242 Computer Organization & Assembly Languag at Orange Coast College
+CS 047: CSCI 212 Machine Organization and Assembly Language at Palomar College
+CS 047: CIS 66 Assembly Language Programming OR CS 66 Assembly Language Programming for the Sciences and Mathematics at Pasadena City College
+CS 047: CSCI 45 Computer Organization and Assembly Language Programming at Reedley College
+CS 047: CIS 11 Computer Architecture and Organization: Assembly OR CSC 11 Computer Architecture and Organization: Assembly at Riverside City College
+CS 047: CISP 310 Assembly Language Programming for Microcomputers at Sacramento City College
+CS 047: CS 3A Computer Organization and Machine Language AND CS 3B Computer Organization and Assembly Language at Saddleback College
+CS 047: CS 170 Assembly Language at San Bernardino Valley College
+CS 047: CS 237 Machine Organization and Assembly Language at San Diego State University
+CS 047: CSC 256 Machine Structures at San Francisco State University
+CS 047: CSP 25 ASSEMBLY Language Programming at San Joaquin Delta College
+CS 047: CMPR 129 Introduction to Computer Organization at Santa Ana College
+CS 047: CS 107 Computer Architecture & Organization at Santa Barbara City College
+CS 047: CS 12 Assembly Language Programming at Santa Rosa Junior College
+CS 047: CIS 63 Assembler Language Programming OR CIS 66 Computer Architecture and Organization at Shasta College
+CS 047: CSCI 39 Introduction to Computer Architecture and Assembly Language at Sierra College
+CS 047: COMP 256 Computer Architecture and Assembly Language at Skyline College
+CS 047: CIS 20 Assembly Programming at Solano Community College
+CS 047: MATH 230 Computer Organization and Architecture at Southwestern College
+CS 047: CS V19 Computer Architecture and Organization at Ventura College
+CS 047: CIS 208 Assembly Language Programming at Victor Valley College
+CS 047: COSCI 917 Beginning Micro Assembly Language at West Los Angeles College
+CS 047: CIST 39 Microcomputer Assembler Programming at West Valley College
+CS 047: COMSC 2 Computer Assembly Language at Yuba College
+CS 049C: CS 19 C++ Programming at Cabrillo College
+CS 049C: CIS 250 Introduction to Object Oriented Programming: C++ at Canada College
+CS 049C: CSCI 15 Object-Oriented Programming Methods at Chabot College
+CS 049C: CIS 26 C Programming OR CIS 25 Object-Oriented Programming Using C++ at College of Alameda
+CS 049C: CIS 278 (CS1) Programming Methods I: C++ at College of San Mateo
+CS 049C: CCTPG 22 Programming Concepts and Methodology I at Columbia College
+CS 049C: COMP 251 Fundamentals of Computer Science C++ at Contra Costa College
+CS 049C: CSCI 110 Introduction to Computer Science I (C++) at Crafton Hills College
+CS 049C: CIS 217 "C" Programming Language at Cuesta College
+CS 049C: CIS 223C Visual/C++ Programming at Cypress College
+CS 049C: CIS 26A C as a Second Programming Language OR CIS 22A Beginning Programming Methodologies in C++ AND CIS 22B Intermediate Programming Methodologies in C++ OR CIS 22A Beginning Programming Methodologies in C++ AND CIS 22BH Intermediate Programming Methodologies in C++ - HONORS at DeAnza College
+CS 049C: ComSc 165 Advanced Programming with C and C++ at Diablo Valley College
+CS 049C: CIT 66 Beginning C++ Programming at Fresno City College
+CS 049C: CSCI 223F "C" Language for Math & Science at Fullerton College
+CS 049C: CSIS 43 C Programming OR CSIS 45 C++ Programming I at Gavilan College
+CS 049C: CSIS 135 Programming in C/C++ at Glendale Community College
+CS 049C: CS G145 C Language Programming at Golden West College
+CS 049C: CS 36 C Programming at Irvine Valley College
+CS 049C: CIS 25 Object Oriented Programming Using C++ at Laney College
+CS 049C: CS 1 Computing Fundamentals I at Las Positas College
+CS 049C: CIS 37A Introduction to C Programming at Mission College
+CS 049C: CSIS 10A Programming Methods I: JAVA at Monterey Peninsula College
+CS 049C: CISP 41 Programming in C# at Mount San Antonio College
+CS 049C: COMS 215 Programming Concepts and Methodology I at Napa Valley College
+CS 049C: CS 116 Object-Oriented Programming Using C++ OR CS 102 Introduction to Computer Programming Using C++ at Ohlone College
+CS 049C: CSCI 220 C Programming OR CSCI 112 Programming Fundamentals I at Palomar College
+CS 049C: CISC 192 C/C++ Programming at San Diego City College
+CS 049C: CISC 192 C/C++ Programming at San Diego Mesa College
+CS 049C: CISC 192 C/C++ Programming at San Diego Miramar College
+CS 049C: CSP 31A C++ Programming I at San Joaquin Delta College
+CS 049C: CIS 54 C/C++ Programming at San Jose City College
+CS 049C: CS 137 C Programming at Santa Barbara City College
+CS 049C: CS 50 C Programming at Santa Monica College
+CS 049C: CS 10 Introduction to Programming Concepts and Methodologies at Santa Rosa Junior College
+CS 049C: CMPR 213 C # Programming at Santiago Canyon College
+CS 049C: CIS 61 C++ Language Programming at Shasta College
+CS 049C: CSCI 46 System Programming with C at Sierra College
+CS 049C: COMP 190 Introduction to C Programming OR COMP 250 Programming Methods I: C++ at Skyline College
+CS 049C: CIST 37 C Programming at West Valley College
+CS 049C: COMSC 9A C++ Programming OR COMSC 11 Advanced C++ Programming at Yuba College
+CS 049J: CIS 35A Java Programming at DeAnza College
+CS 049J: CISP 401 Object Oriented Programming with JAVA at Folsom Lake College
+CS 049J: CPSC 39 Programming Concepts and Methodology II at Merced College
